@@ -1,46 +1,61 @@
 <div align="center">
-  <h1>Hi 👋, I'm Muteeb</h1>
-  <h3>Computer Science Student | Full Stack Developer | Cyber Security Enthusiast</h3>
+  <h1>Hi There! I'm Muteeb 👋</h1>
+  <h3>Computer Science Student | Cyber Security Specialist | Full-Stack & AI Developer</h3>
+
+  <p align="center">
+    <a href="mailto:your-email@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://linkedin.com/in/your-profile">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
-<hr>
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>🚀 About Me</h2>
-      <ul>
-        <li>💻 <b>Full Stack:</b> PERN Stack (PostgreSQL, NestJS, React) expert.</li>
-        <li>🤖 <b>AI/ML:</b> Specialized in RAG-based systems and automation.</li>
-        <li>🛡️ <b>Cyber Security:</b> Red Teaming, Pentesting, and Vuln Research.</li>
-        <li>⚙️ <b>Automation:</b> Workflow optimization with <b>n8n</b>.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h2>🛠️ Tech Stack</h2>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 📝 Professional Summary
+I am a dedicated **Computer Science Student** with a focus on building secure, automated, and intelligent systems. I specialize in the **PERN stack** and have a deep passion for **Red Teaming** and **AI-driven automation**.
 
-<br>
+* 🛡️ **Cybersecurity:** Focused on Network Penetration Testing and Vulnerability Research.
+* 🤖 **AI & Automation:** Building RAG-based systems and automating complex workflows with **n8n**.
+* 💻 **Full-Stack:** Crafting scalable applications using NestJS, React, and PostgreSQL.
+
+---
+
+### 🛡️ Cybersecurity & Red Teaming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,wireshark,powershell,git,docker,aws" alt="Cybersecurity" />
+</p>
+
+### 🤖 AI, Machine Learning & Automation
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,scikitlearn,anaconda,fastapi" alt="AI/ML" />
+  </p>
+
+### 💻 Full-Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,tailwind,postgres,mongodb,prisma,typeorm" alt="Web Dev" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+* **RAG-based Legal AI**: An intelligent system for querying localized laws and fines using vector databases.
+* **Corporate Network Design**: Advanced network infrastructure simulation using Cisco Packet Tracer.
+* **PERN Stack Portal**: A full-featured application with a NestJS backend and high-performance React frontend.
+* **30-Day Tool Challenge**: A deep dive into mastering 30 different cybersecurity tools (Metasploit, Nmap, etc.).
+
+---
+
+### 📊 My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
+</p>
+
+---
 
 <div align="center">
-  <h2>📊 GitHub Activity</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<hr>
-
-<div align="center">
-  <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
