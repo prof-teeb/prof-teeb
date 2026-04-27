@@ -3,10 +3,10 @@
   <h3>Computer Science Student | Cyber Security Specialist | Full-Stack & AI Developer</h3>
 
   <p align="center">
-    <a href="mailto:your-email@gmail.com">
+    <a href="mailto:your-m.mutti1913@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/your-profile">
+    <a href=https://www.linkedin.com/in/muhammad-muteeb-38678a371/">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -46,16 +46,3 @@ I am a dedicated **Computer Science Student** with a focus on building secure, a
 * **PERN Stack Portal**: A full-featured application with a NestJS backend and high-performance React frontend.
 * **30-Day Tool Challenge**: A deep dive into mastering 30 different cybersecurity tools (Metasploit, Nmap, etc.).
 
----
-
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</div>
